@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Event Handler</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="message_Text">Hello World!</string>
+    <string name="button_Text">Press Me!!</string>
+</resources>

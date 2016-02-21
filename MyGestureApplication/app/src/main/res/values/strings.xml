@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Gesture Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gesture_Message">Which Gesture are we Today!!</string>
+</resources>
